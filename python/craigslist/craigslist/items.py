@@ -7,5 +7,6 @@ from scrapy.item import Item, Field
 
 class CraigslistItem(Item):
     # define the fields for your item here like:
-    # name = Field()
-    pass
+    name = Field()
+    link = Field()
+    date = Field()

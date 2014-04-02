@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html class="nojs"><head>
+    <title>new york city tickets classifieds  - craigslist</title>
+
+    <meta name="description" content="new york city tickets classifieds  - craigslist">
+    <link rel="alternate" type="application/rss+xml" href="/tia/index.rss" title="RSS feed for craigslist | tickets  in new york city ">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=b5964133b9b6f83c8bd20f3a6fad32f6">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-1.9.2.custom.css?v=3f1b9638a5222b05bec93117fa889ee5">
+    <link rel="prefetch" href="//www.craigslist.org/js/postings.min.js?v=3706ea02cbd3cb6d57969b35f954e61e">
+    
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet-stock.css?v=84d3c834332cbea762f0ab54db54c578">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=b94c0e0f6bef79d2d992e3420553207b">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=3962f82c61ab2a0cc93caec696f2d870">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=f1223c97cb8efdbf6ce2db4513315769">
+<![endif]-->
+    
+        <script type="text/javascript"><!--
+            var currencySymbol = "&#x0024;";
+var areaRegion = "NY";
+var zoomToPosting = null;
+var showInfoText = "show info";
+var subarea = null;
+var imageHost = "http://images.craigslist.org";
+var areaId = "3";
+var lessInfoText = "less info";
+var showMapTabs = 1;
+var areaCountry = "US";
+var starHint = "save this post in your favorites list";
+var expFaves = null;
+var pID = null;
+var catAbb = "tia";
+var catType = "sss";
+
+        --></script>
+    
+    <!--[if lt IE 9]>
+<script  src="//www.craigslist.org/js/html5shiv.min.js?v=42e8031bc7ca9d67a48f4a5feff7bf29" type="text/javascript" ></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<script  src="//www.craigslist.org/js/json2.min.js?v=178d4ad319e0e0b4a451b15e49b71bec" type="text/javascript" ></script>
+<![endif]-->
+</head>
+
+<body class="toc">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('nojs', '');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0];
+        var fmt = C('cl_fmt');
+        if (fmt) {
+            pagemode = fmt;
+            bodyClassList.push(fmt);
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+            bodyClassList.push(pagemode);
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof catType !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(catType + ':([^,]+)', 'i')) || {})[1];
+            for (var i = 0, len = bodyClassList.length; i < len; i++){
+                if (bodyClassList[i] === 'map') { mode = undefined; }
+            }
+            if (mode) { bodyClassList.push(mode); }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <article id="pagecontainer">
+
+        <header class="bchead">
+	<div class="contents closed">
+		<div class="breadbox">
+			<div class="mi post"><em>[ </em><a href="https://post.craigslist.org/c/nyc?lang=en">post</a><em> ]</em></div>
+			<div class="mi account"><em>[ </em><a href="https://accounts.craigslist.org">account</a><em> ]</em></div>
+			<div class="mi fav"><div id="favorites">
+    <a href="#" class="favlink"><span class="n">0</span> favorites</a>
+</div></div>
+			<span class="crumb"><a href="//www.craigslist.org/about/sites">CL</a> &gt;</span><span class="crumb"><a href="/">new york</a> &gt;</span><span class="crumb"><a href="/sss/">for sale / wanted</a> &gt;</span><span class="crumb"><a href="/tia/">tickets</a></span>
+		</div>
+		<div class="dropdown">&mdash; &mdash; &mdash;</div>
+        <div id="satabs" class="tabcontainer"><b>all new york</b><a href="/mnh/tia/">manhattan</a><a href="/brk/tia/">brooklyn</a><a href="/que/tia/">queens</a><a href="/brx/tia/">bronx</a><a href="/stn/tia/">staten island</a><a href="/jsy/tia/">new jersey</a><a href="/lgi/tia/">long island</a><a href="/wch/tia/">westchester</a><a href="/fct/tia/">fairfield</a></div>
+
+	</div>
+</header>
+
+        <blockquote class="searchform">
+            
+        <script type="text/javascript"><!--
+            var catAbb = "tia";
+
+        --></script>
+    
+<form action="/search/tia" id="searchform" method="get" accept-charset="utf-8">
+	<input type="checkbox" name="useMap" id="useMap" style="display:none;" value="1">
+	<input id="zoomtoposting" type="hidden" name="zoomToPosting" value="">
+
+    <fieldset id="searchfieldset">
+    <legend id="searchlegend"><select id="catAbb" name="catAbb">
+
+                <option value="ccc">all community</option>
+
+                <option value="eee">all event</option>
+
+                <option value="sss">all for sale / wanted</option>
+<option disabled value="">--</option>
+<option value="ata"> antiques</option>
+<option data-acat="ata" value="atd"> antiques - by dealer</option>
+<option data-acat="ata" value="atq"> antiques - by owner</option>
+<option value="ppa"> appliances</option>
+<option data-acat="ppa" value="ppd"> appliances - by dealer</option>
+<option data-acat="ppa" value="app"> appliances - by owner</option>
+<option value="ara"> arts+crafts</option>
+<option data-acat="ara" value="ard"> arts &amp; crafts - by dealer</option>
+<option data-acat="ara" value="art"> arts &amp; crafts - by owner</option>
+<option value="sna"> atvs/utvs/snowmobiles</option>
+<option data-acat="sna" value="snd"> atvs, utvs, snowmobiles - by dea</option>
+<option data-acat="sna" value="sno"> atvs, utvs, snowmobiles - by own</option>
+<option value="pta"> auto parts</option>
+<option data-acat="pta" value="ptd"> auto parts - by dealer</option>
+<option data-acat="pta" value="pts"> auto parts - by owner</option>
+<option value="baa"> baby+kids</option>
+<option data-acat="baa" value="bad"> baby &amp; kid stuff - by dealer</option>
+<option data-acat="baa" value="bab"> baby &amp; kid stuff - by owner</option>
+<option value="bar"> barter</option>
+<option value="haa"> beauty+hlth</option>
+<option data-acat="bia" value="bid"> bicycles - by dealer</option>
+<option data-acat="bia" value="bik"> bicycles - by owner</option>
+<option value="bia"> bikes</option>
+<option value="boo"> boats</option>
+<option data-acat="boo" value="bod"> boats - by dealer</option>
+<option data-acat="boo" value="boa"> boats - by owner</option>
+<option value="bka"> books</option>
+<option data-acat="bka" value="bkd"> books &amp; magazines - by dealer</option>
+<option data-acat="bka" value="bks"> books &amp; magazines - by owner</option>
+<option value="bfa"> business</option>
+<option data-acat="bfa" value="bfd"> business/commercial - by dealer</option>
+<option data-acat="bfa" value="bfs"> business/commercial - by owner</option>
+<option value="cta"> cars+trucks</option>
+<option data-acat="cta" value="ctd"> cars &amp; trucks - by dealer</option>
+<option data-acat="cta" value="cto"> cars &amp; trucks - by owner</option>
+<option data-acat="ema" value="emq"> cds / dvds / vhs - by dealer</option>
+<option data-acat="ema" value="emd"> cds / dvds / vhs - by owner</option>
+<option value="ema"> cds/dvd/vhs</option>
+<option value="moa"> cell phones</option>
+<option data-acat="moa" value="mod"> cell phones - by dealer</option>
+<option data-acat="moa" value="mob"> cell phones - by owner</option>
+<option value="cla"> clothes+acc</option>
+<option data-acat="cla" value="cld"> clothing &amp; accessories - by deal</option>
+<option data-acat="cla" value="clo"> clothing &amp; accessories - by owne</option>
+<option value="cba"> collectibles</option>
+<option data-acat="cba" value="cbd"> collectibles - by dealer</option>
+<option data-acat="cba" value="clt"> collectibles - by owner</option>
+<option value="sya"> computers</option>
+<option data-acat="sya" value="syd"> computers - by dealer</option>
+<option data-acat="sya" value="sys"> computers - by owner</option>
+<option value="ela"> electronics</option>
+<option data-acat="ela" value="eld"> electronics - by dealer</option>
+<option data-acat="ela" value="ele"> electronics - by owner</option>
+<option value="gra"> farm+garden</option>
+<option data-acat="gra" value="grq"> farm &amp; garden - by dealer</option>
+<option data-acat="gra" value="grd"> farm &amp; garden - by owner</option>
+<option data-acat="sss" value="ssq"> for sale by dealer</option>
+<option data-acat="sss" value="sso"> for sale by owner</option>
+<option value="zip"> free stuff</option>
+<option value="fua"> furniture</option>
+<option data-acat="fua" value="fud"> furniture - by dealer</option>
+<option data-acat="fua" value="fuo"> furniture - by owner</option>
+<option value="gms"> garage sales</option>
+<option value="foa"> general</option>
+<option data-acat="foa" value="fod"> general for sale - by dealer</option>
+<option data-acat="foa" value="for"> general for sale - by owner</option>
+<option data-acat="haa" value="had"> health and beauty - by dealer</option>
+<option data-acat="haa" value="hab"> health and beauty - by owner</option>
+<option value="hva"> heavy equipment</option>
+<option data-acat="hva" value="hvd"> heavy equipment - by dealer</option>
+<option data-acat="hva" value="hvo"> heavy equipment - by owner</option>
+<option value="hsa"> household</option>
+<option data-acat="hsa" value="hsd"> household items - by dealer</option>
+<option data-acat="hsa" value="hsh"> household items - by owner</option>
+<option value="jwa"> jewelry</option>
+<option data-acat="jwa" value="jwd"> jewelry - by dealer</option>
+<option data-acat="jwa" value="jwl"> jewelry - by owner</option>
+<option value="maa"> materials</option>
+<option data-acat="maa" value="mad"> materials - by dealer</option>
+<option data-acat="maa" value="mat"> materials - by owner</option>
+<option value="mpa"> motorcycle parts &amp; acc</option>
+<option data-acat="mpa" value="mpd"> motorcycle parts/acc - by dealer</option>
+<option data-acat="mpa" value="mpo"> motorcycle parts/acc - by owner</option>
+<option value="mca"> motorcycles</option>
+<option data-acat="mca" value="mcd"> motorcycles/scooters - by dealer</option>
+<option data-acat="mca" value="mcy"> motorcycles/scooters - by owner</option>
+<option data-acat="msa" value="msd"> musical instruments - by dealer</option>
+<option data-acat="msa" value="msg"> musical instruments - by owner</option>
+<option value="msa"> music instr</option>
+<option value="pha"> photo+video</option>
+<option data-acat="pha" value="phd"> photo/video - by dealer</option>
+<option data-acat="pha" value="pho"> photo/video - by owner</option>
+<option value="rva"> recreational vehicles</option>
+<option data-acat="rva" value="rvd"> rvs - by dealer</option>
+<option data-acat="rva" value="rvs"> rvs - by owner</option>
+<option value="sga"> sporting</option>
+<option data-acat="sga" value="sgd"> sporting goods - by dealer</option>
+<option data-acat="sga" value="spo"> sporting goods - by owner</option>
+<option value="tia" selected> tickets</option>
+<option data-acat="tia" value="tid"> tickets - by dealer</option>
+<option data-acat="tia" value="tix"> tickets - by owner</option>
+<option value="tla"> tools</option>
+<option data-acat="tla" value="tld"> tools - by dealer</option>
+<option data-acat="tla" value="tls"> tools - by owner</option>
+<option value="taa"> toys+games</option>
+<option data-acat="taa" value="tad"> toys &amp; games - by dealer</option>
+<option data-acat="taa" value="tag"> toys &amp; games - by owner</option>
+<option value="vga"> video gaming</option>
+<option data-acat="vga" value="vgd"> video gaming - by dealer</option>
+<option data-acat="vga" value="vgm"> video gaming - by owner</option>
+<option value="waa"> wanted</option>
+<option data-acat="waa" value="wad"> wanted - by dealer</option>
+<option data-acat="waa" value="wan"> wanted - by owner</option>
+<option disabled value="">--</option>
+
+                <option value="ggg">all gigs</option>
+
+                <option value="hhh">all housing</option>
+
+                <option value="jjj">all jobs</option>
+
+                <option value="ppp">all personals</option>
+
+                <option value="res">all resume</option>
+
+                <option value="bbb">all services offered</option>
+</select><span class="posterpicker"><a href="../tix" data-cat="tix">owner</a><b> | </b><a href="../tid" data-cat="tid">dealer</a><b> | </b><b>all</b></span></legend>
+	<div class="experimentalFeature">
+    	     
+    	</div>
+	<div id="searchtable">
+		<span class="searchgroup">
+			<span>
+				<input id="query" name="query" data-suggest="search" size="24" maxlength="180" value="" placeholder="search" autocorrect="off" autocapitalize="off">
+			</span>
+			<input id="searchbtn" type="submit" value="search">
+		</span>
+
+		<span class="searchgroup">
+	price:
+	<input name="minAsk" class="min" size="5" placeholder="min" value="">
+	<input name="maxAsk" class="max" size="5" placeholder="max" value="">
+</span>
+
+		
+
+		
+		<span class="searchgroup">
+			<label>
+				<input type="checkbox" name="hasPic" value="1" ><span class="haspic">pic</span>
+			</label>
+			<label>
+					<input type="checkbox" name="srchType" value="T"
+					title="search only posting titles">title
+			</label>
+		</span>
+
+		<span class="searchgroup"></span>
+
+	</div>
+    </fieldset>
+	<input id="excats" type="hidden" name="excats" value="">
+</form>
+        </blockquote>
+
+        
+
+        <section class="body">
+            <section class="favlistinfo">
+                
+                
+            </section>
+
+            <div id="toc_rows">
+                <div class="toc_legend">
+                    <div class="center">
+                        <span class="tocview buttongroup"><a href="#list" title="show results in a list" class="mode button" data-view="list" id="listview">list</a><a href="#pic" title="show results in a list with thumbnail pictures" class="mode button" data-view="pic" id="picview">thumb</a><a href="#grid" title="show results side-by-side with larger pictures" class="mode button" data-view="grid" id="gridview">gallery</a><a href="#map" title="show results on a map" class="mapview mode button" data-view="map" id="mapview">map</a></span><span class="paginator buttongroup">
+<span class="resulttotal">found <span>...</span> postings</span><span class="buttons"><span class="button first" title="first page"> &lt;&lt; </span><span class="button prev" title="previous page"> &lt; prev </span><span class="button pagenum">1 - 100 </span><a href='/tia/index100.html' class="button next" title="next page"> next &gt; </a></span>
+</span><span class="tocsort buttongroup"><span class="button sel">newest</span><a class="button" title="sort by price, lowest to highest" href="/search/tia/?sort=priceasc"><span class='pricesort'><span class='pricesort'>&#x0024;</span>&#x0024;</span>&#x0024;</a><a class="button" title="sort by price, highest to lowest" href="/search/tia/?sort=pricedsc">&#x0024;<span class='pricesort'>&#x0024;<span class='pricesort'>&#x0024;</span></span></a></span>
+                    </div>
+                </div>
+
+                <div class="content">
+                    
+                    <h4 class="ban"><span class="bantext">Wed Apr 02</span></h4>
+ <p class="row" data-pid="4375093341"> <a href="/mnh/tix/4375093341.html" class="i"><span class="price">&#x0024;140</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4375093341.html">2 NY METS vs ATLANTA BRAVES July 8 &amp; 10 *Behind Home Plate* DELTA CLUB</a> </span> <span class="l2"> <span class="price">&#x0024;140</span>  <span class="pnr"> <small> (CitiField - New York City)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404256109"> <a href="/mnh/tix/4404256109.html" class="i" data-id="0:00404_7RQK0N91I7K"><span class="price">&#x0024;40</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404256109.html">Yankees vs. Orioles (Apr 7) - Premium Parking Validation Pass</a> </span> <span class="l2"> <span class="price">&#x0024;40</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404254291"> <a href="/mnh/tix/4404254291.html" class="i"><span class="price">&#x0024;400</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404254291.html">COACHELLA WEEKEND 2 TICKET</a> </span> <span class="l2"> <span class="price">&#x0024;400</span>  <span class="pnr">  <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404254291">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404252032"> <a href="/mnh/tix/4404252032.html" class="i"><span class="price">&#x0024;35</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404252032.html">The Wonder Years @ Best Buy Theater (4/17)</a> </span> <span class="l2"> <span class="price">&#x0024;35</span>  <span class="pnr"> <small> (Flatiron)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4386000729"> <a href="/mnh/tix/4386000729.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4386000729.html">Neutral Milk Hotel Prospect Park 7/22</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Midtown West)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4386000729">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404109910"> <a href="/mnh/tix/4404109910.html" class="i" data-id="0:00a0a_3RLapFBvX6I"><span class="price">&#x0024;100</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404109910.html">AUDRA MCDONALD AS BILLIE HOLLIDAY</a> </span> <span class="l2"> <span class="price">&#x0024;100</span>  <span class="pnr"> <small> (sent by mail)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4398624506"> <a href="/mnh/tix/4398624506.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4398624506.html">Yankees vs Angels Saturday April, 26 Bleachers</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Midtown West)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4398624506">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4394056405"> <a href="/mnh/tix/4394056405.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4394056405.html">Yankees Saturday Games in Bleachers </a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Midtown West)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404245371"> <a href="/mnh/tix/4404245371.html" class="i"><span class="price">&#x0024;90</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404245371.html">NEW YORK YANKEES vs BOSTON RED SOX AT FENWAY PARK 4/23/14 and 4/24/14</a> </span> <span class="l2"> <span class="price">&#x0024;90</span>  <span class="pnr"> <small> (fenway park)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404243970"> <a href="/mnh/tix/4404243970.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404243970.html">Chromeo Terminal 5 Friday, 5/16</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Midtown West)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404243970">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404211759"> <a href="/mnh/tix/4404211759.html" class="i"><span class="price">&#x0024;3500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404211759.html">New York Yankees vs Toronto Blue Jays Suite</a> </span> <span class="l2"> <span class="price">&#x0024;3500</span>  <span class="pnr"> <small> (Rogers Centre, Toronto)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404243119"> <a href="/mnh/tix/4404243119.html" class="i"><span class="price">&#x0024;65</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404243119.html">Last Chance 1 ticket left for Kraftwerk 3D tonight. Row B 4/2</a> </span> <span class="l2"> <span class="price">&#x0024;65</span>  <span class="pnr"> <small> (West Village)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404243119">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4371671381"> <a href="/mnh/tix/4371671381.html" class="i" data-id="0:00t0t_dJLGPcwtUi2"><span class="price">&#x0024;25</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4371671381.html">YANKEES TIX FOR APRIL/MAY INC OPENING DAY TIX</a> </span> <span class="l2"> <span class="price">&#x0024;25</span>  <span class="pnr"> <small> (GRANDSTAND 419 ROW 4)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404164575"> <a href="/jsy/tix/4404164575.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/jsy/tix/4404164575.html">Rihanna, Eminem Face Value</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Metlife)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404164575">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404176798"> <a href="/jsy/tix/4404176798.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/jsy/tix/4404176798.html">History of The Eagles (Floor Seats face value)</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Prudential Center)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404217828"> <a href="/mnh/tix/4404217828.html" class="i" data-id="0:00l0l_q6VkC0Q7QV"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404217828.html">*** Tonight! LA BOHEME @ Met Opera * Orchestra ***</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Best Reasonable Offer!)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4363382522"> <a href="/mnh/tix/4363382522.html" class="i" data-id="0:00m0m_8Dqtdy5dgC2"><span class="price">&#x0024;325</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4363382522.html">KNICKS VS BULLS TICKETS CENTER COURT AISLE SEATS!!!</a> </span> <span class="l2"> <span class="price">&#x0024;325</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4363382522">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404229992"> <a href="/brx/tix/4404229992.html" class="i"><span class="price">&#x0024;120</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/brx/tix/4404229992.html">2 Tickets 4/7 New York Yankees v Orioles Yankee Stadium- Opening Day</a> </span> <span class="l2"> <span class="price">&#x0024;120</span>  <span class="pnr"> <small> (Bronx )</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404229992">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4400297849"> <a href="/mnh/tix/4400297849.html" class="i"><span class="price">&#x0024;2</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4400297849.html">LADY GAGA Tickets Mezz tix4/4 </a> </span> <span class="l2"> <span class="price">&#x0024;2</span>  <span class="pnr"> <small> (1 mezz tix )</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404214885"> <a href="/mnh/tix/4404214885.html" class="i"><span class="price">&#x0024;400</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404214885.html">4/2 NETS @ KNICKS Baseline Risers 8 (sec 8 row 6) 400$ single ticket  </a> </span> <span class="l2"> <span class="price">&#x0024;400</span>  <span class="pnr"> <small> (Midtown West)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404214885">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404225107"> <a href="/que/tid/4404225107.html" class="i" data-id="0:00Z0Z_2dDj3fZ9tUv"></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/que/tid/4404225107.html">&#9733;TICKETS&#9733; Eminem and Rihanna, New York Yankees, Mets, Queen &More</a> </span> <span class="l2">   <span class="pnr"> <small> (&#10022; LOWEST PRICES ON CRAIGSLIST)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tid/" data-cat="tid">tickets - by dealer</a> </span> </p>
+ <p class="row" data-pid="4393460240"> <a href="/mnh/tix/4393460240.html" class="i" data-id="0:00H0H_i7SPyTN3omQ"><span class="price">&#x0024;200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4393460240.html">!SELLING OUR BABY SLEIGH CO-SLEEPER FOR INFANT</a> </span> <span class="l2"> <span class="price">&#x0024;200</span>  <span class="pnr"> <small> (Upper West Side)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404032459"> <a href="/mnh/tix/4404032459.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404032459.html">Amtrak Travel Voucher $490 Value Make an Offer!</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404126979"> <a href="/mnh/tix/4404126979.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404126979.html">OPENING DAY NEW YORK YANKEES 4/7</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404126979">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4384107999"> <a href="/mnh/tix/4384107999.html" class="i"><span class="price">&#x0024;200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4384107999.html">6 NY YANKEES Games ** Behind Home Plate** MVP Field**Way BELOW FACE !!</a> </span> <span class="l2"> <span class="price">&#x0024;200</span>  <span class="pnr"> <small> (NYC - Yankees Stadium)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404217046"> <a href="/mnh/tix/4404217046.html" class="i"><span class="price">&#x0024;320</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404217046.html">OLD SETTLERS (2) Tix  4 DAY W/CAMP</a> </span> <span class="l2"> <span class="price">&#x0024;320</span>  <span class="pnr"> <small> (Austin, Tx)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404217046">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404189255"> <a href="/brx/tix/4404189255.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/brx/tix/4404189255.html">Baltimore vs NY Yankees/Opening Day</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr">  <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404189255">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404196598"> <a href="/mnh/tix/4404196598.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404196598.html">Billy Joel  (Face Value)</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404196598">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4389684563"> <a href="/brk/tix/4389684563.html" class="i"><span class="price">&#x0024;400</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/brk/tix/4389684563.html">Brooklyn Nets vs. NY Knicks-Tues. 4/15-NETS FINAL HOME GAME OF SEASON!</a> </span> <span class="l2"> <span class="price">&#x0024;400</span>  <span class="pnr"> <small> (Clinton Hill)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4389684563">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404094486"> <a href="/mnh/tix/4404094486.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404094486.html">2 Tickets to Nets vs Knicks tonight at MSG- LOW AISLES</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404094486">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4391306869"> <a href="/brk/tix/4391306869.html" class="i"><span class="price">&#x0024;275</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/brk/tix/4391306869.html">Brooklyn Nets vs. Orlando Magic --- Sunday 4/13 - BEST OFFER </a> </span> <span class="l2"> <span class="price">&#x0024;275</span>  <span class="pnr"> <small> (Clinton Hill)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4391306869">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4388191807"> <a href="/mnh/tix/4388191807.html" class="i"><span class="price">&#x0024;225</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4388191807.html">YANKEES vs SEATTLE Mariners MVP Field CLUB Behind Home FRONT ROWon4/29</a> </span> <span class="l2"> <span class="price">&#x0024;225</span>  <span class="pnr"> <small> (New York City)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404205194"> <a href="/brx/tix/4404205194.html" class="i"><span class="price">&#x0024;49</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/brx/tix/4404205194.html">6 TERRACE DECK MARINERS @ YANKEES TICKETS 4/29 CANO'S 1st GAME BACK</a> </span> <span class="l2"> <span class="price">&#x0024;49</span>  <span class="pnr"> <small> (NYC)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404199225"> <a href="/lgi/tix/4404199225.html" class="i"><span class="price">&#x0024;97</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/lgi/tix/4404199225.html">Two Orchestra seats for Dave Chappelle at Radio City 6/19/14</a> </span> <span class="l2"> <span class="price">&#x0024;97</span>  <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4391083919"> <a href="/mnh/tix/4391083919.html" class="i" data-id="0:01717_jRUNMaSOlnc"><span class="price">&#x0024;550</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4391083919.html">coachella weekend 2, 2x GA +shuttle pass</a> </span> <span class="l2"> <span class="price">&#x0024;550</span>  <span class="pnr"> <small> (Union Square)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4391083919">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404198027"> <a href="/mnh/tix/4404198027.html" class="i"><span class="price">&#x0024;150</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404198027.html">2 KNICKS VS NETS TICKETS SECTION 111 ROW 10- LESS STUBHUB</a> </span> <span class="l2"> <span class="price">&#x0024;150</span>  <span class="pnr"> <small> (MANHATTAN)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404198027">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4400949239"> <a href="/mnh/tix/4400949239.html" class="i"><span class="price">&#x0024;500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4400949239.html">Coachella Weekend Two </a> </span> <span class="l2"> <span class="price">&#x0024;500</span>  <span class="pnr"> <small> (East Village)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404194447"> <a href="/mnh/tix/4404194447.html" class="i"><span class="price">&#x0024;70</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404194447.html">1 Kraftwerk ticket for Tonight (4/2) - ORCH Row E - below face</a> </span> <span class="l2"> <span class="price">&#x0024;70</span>  <span class="pnr">  <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404194447">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404157605"> <a href="/mnh/tix/4404157605.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404157605.html">Rangers vs Ottawa, extra pair, Apirl 5th</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr">  <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404157605">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404191268"> <a href="/brk/tix/4404191268.html" class="i"><span class="price">&#x0024;120</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/brk/tix/4404191268.html">Kraftwerk tonight! Face Value</a> </span> <span class="l2"> <span class="price">&#x0024;120</span>  <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404186904"> <a href="/mnh/tix/4404186904.html" class="i" data-id="0:01717_lTKXNp6hIyC"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404186904.html">*** LA BOHEME @ Met Opera * Discounted Orchestra * TONIGHT***</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Upper West Side)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4399710953"> <a href="/que/tix/4399710953.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/que/tix/4399710953.html">AIRLINE. TICKETS</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr">  <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4399710953">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404182187"> <a href="/mnh/tix/4404182187.html" class="i"><span class="price">&#x0024;60</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404182187.html">Extra Kraftwerk Ticket for Tonight</a> </span> <span class="l2"> <span class="price">&#x0024;60</span>  <span class="pnr"> <small> (East Village)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404182187">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404160151"> <a href="/mnh/tix/4404160151.html" class="i"><span class="price">&#x0024;45</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404160151.html">Flight Facilities Tickets</a> </span> <span class="l2"> <span class="price">&#x0024;45</span>  <span class="pnr"> <small> (West Village)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404179897"> <a href="/mnh/tix/4404179897.html" class="i"><span class="price">&#x0024;200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404179897.html">Mets vs. Reds - Saturday, April 5th @ 1:10 PM</a> </span> <span class="l2"> <span class="price">&#x0024;200</span>  <span class="pnr"> <small> (West Village)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404179897">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404171605"> <a href="/mnh/tix/4404171605.html" class="i"><span class="price">&#x0024;65</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404171605.html">Lady Gaga tonight-2 tix-face value</a> </span> <span class="l2"> <span class="price">&#x0024;65</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404171605">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404177675"> <a href="/mnh/tix/4404177675.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404177675.html">FREE Comedy Show!!! TONIGHT!!!!!</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Lower East Side)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404177675">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404177558"> <a href="/que/tix/4404177558.html" class="i"><span class="price">&#x0024;85</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/que/tix/4404177558.html">(2) human tickets and (1) dog ticket for Sun 4/6 Mets Bark in the Park</a> </span> <span class="l2"> <span class="price">&#x0024;85</span>  <span class="pnr"> <small> (Citi Field)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4392909461"> <a href="/mnh/tix/4392909461.html" class="i"><span class="price">&#x0024;10</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4392909461.html">2 tickets to Yankees games</a> </span> <span class="l2"> <span class="price">&#x0024;10</span>  <span class="pnr"> <small> (Midtown West)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4392909461">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404174967"> <a href="/mnh/tix/4404174967.html" class="i"><span class="price">&#x0024;60</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404174967.html">NY Yankees Opening Day</a> </span> <span class="l2"> <span class="price">&#x0024;60</span>  <span class="pnr"> <small> (Inwood / Wash Hts)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404174967">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404171690"> <a href="/mnh/tix/4404171690.html" class="i"><span class="price">&#x0024;350</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404171690.html">Coachella tickets for weekend 2</a> </span> <span class="l2"> <span class="price">&#x0024;350</span>  <span class="pnr">  <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404171690">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404159435"> <a href="/mnh/tix/4404159435.html" class="i" data-id="0:00r0r_5WAv52BWrzg"><span class="price">&#x0024;275</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404159435.html">2014 Firefly Music Festival</a> </span> <span class="l2"> <span class="price">&#x0024;275</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404166215"> <a href="/mnh/tix/4404166215.html" class="i"><span class="price">&#x0024;150</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404166215.html">Knicks vs. Brooklyn Nets - TONIGHT - 4/2 - 200's</a> </span> <span class="l2"> <span class="price">&#x0024;150</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404165265"> <a href="/mnh/tix/4404165265.html" class="i"><span class="price">&#x0024;100</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404165265.html">NY Yankees Opening Day 4/7</a> </span> <span class="l2"> <span class="price">&#x0024;100</span>  <span class="pnr"> <small> (Inwood / Wash Hts)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404165265">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404164375"> <a href="/mnh/tix/4404164375.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404164375.html">Knicks vs Nets. Tonight</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Sect 102)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404164375">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404162858"> <a href="/mnh/tix/4404162858.html" class="i"><span class="price">&#x0024;79</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404162858.html">Last Chance! Orch pair to MOTHERS AND SONS Sat 4/5 @ 8-Pick up by noon</a> </span> <span class="l2"> <span class="price">&#x0024;79</span>  <span class="pnr"> <small> (Leaving on vacation tomorrow noon)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404162858">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404161382"> <a href="/mnh/tix/4404161382.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404161382.html">NY Ranger Tickets</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404151998"> <a href="/mnh/tix/4404151998.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404151998.html">LA BOHEME @ MET - Orch Balance pair for TONIGHT / WEDNESDAY</a> </span> <span class="l2">   <span class="pnr"> <small> (Upper West Side)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404159485"> <a href="/brk/tix/4404159485.html" class="i" data-id="0:00R0R_j3mnh5fmCPm"><span class="price">&#x0024;399</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/brk/tix/4404159485.html">2 Tickets Billy Joel MSG Sect 223 Row 12 Thurs. 8-7-14 Madison Square </a> </span> <span class="l2"> <span class="price">&#x0024;399</span>  <span class="pnr"> <small> (Bay Ridge)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404133493"> <a href="/stn/tix/4404133493.html" class="i" data-id="0:00Q0Q_2mkFPohZ45Z"><span class="price">&#x0024;120</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/stn/tix/4404133493.html">2 GA Wild Child concert tickets</a> </span> <span class="l2"> <span class="price">&#x0024;120</span>  <span class="pnr"> <small> (staten island or manhattan)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4404133493">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404157406"> <a href="/mnh/tix/4404157406.html" class="i"><span class="price">&#x0024;60</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404157406.html">YANKEES VS ORIOLES - 2 TIX - APRIL 8</a> </span> <span class="l2"> <span class="price">&#x0024;60</span>  <span class="pnr"> <small> (Lower East Side)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404157406">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404141401"> <a href="/mnh/tix/4404141401.html" class="i"><span class="price">&#x0024;143</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404141401.html">Bruce Springsteen Herseypark Stadium 5/14</a> </span> <span class="l2"> <span class="price">&#x0024;143</span>  <span class="pnr"> <small> (stand 28 row BB)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404154814"> <a href="/mnh/tid/4404154814.html" class="i"><span class="price">&#x0024;125</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tid/4404154814.html">KNICKS vs. NETS - Tonight - 7:30pm</a> </span> <span class="l2"> <span class="price">&#x0024;125</span>  <span class="pnr"> <small> (Madison Square Garden)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/tid/" data-cat="tid">tickets - by dealer</a> </span> </p>
+ <p class="row" data-pid="4404063375"> <a href="/mnh/tix/4404063375.html" class="i"><span class="price">&#x0024;65</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404063375.html">"LA BOHEME"tonight @7:30--orchestra seats</a> </span> <span class="l2"> <span class="price">&#x0024;65</span>  <span class="pnr"> <small> (Lincoln Center)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404063375">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404154392"> <a href="/mnh/tix/4404154392.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404154392.html">fri - up to 3 for sale - KELELA @ ROUGH TRADE</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404152806"> <a href="/mnh/tix/4404152806.html" class="i"><span class="price">&#x0024;300</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404152806.html">Les Miserables - April 12 - 8pm 2 tix</a> </span> <span class="l2"> <span class="price">&#x0024;300</span>  <span class="pnr"> <small> (Midtown West)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404152806">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404001613"> <a href="/mnh/tix/4404001613.html" class="i"><span class="price">&#x0024;107</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404001613.html">___ New York Knicks vs. Brooklyn Nets Tickets...| Wednesday, April 02</a> </span> <span class="l2"> <span class="price">&#x0024;107</span>  <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404123652"> <a href="/mnh/tix/4404123652.html" class="i"><span class="price">&#x0024;50</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404123652.html">Slint tickets for Bowery Ballroom</a> </span> <span class="l2"> <span class="price">&#x0024;50</span>  <span class="pnr"> <small> (Lower East Side)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404123652">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404149515"> <a href="/mnh/tix/4404149515.html" class="i"><span class="price">&#x0024;45</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404149515.html">Chelsea Piers Passports (4)</a> </span> <span class="l2"> <span class="price">&#x0024;45</span>  <span class="pnr"> <small> (ny)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404149515">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404117884"> <a href="/mnh/tix/4404117884.html" class="i"><span class="price">&#x0024;39</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404117884.html">3 Yankees Red Sox 4/10/14 Bleacher Creatures</a> </span> <span class="l2"> <span class="price">&#x0024;39</span>  <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404147090"> <a href="/mnh/tix/4404147090.html" class="i"><span class="price">&#x0024;75</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404147090.html">Krafwerk 3D</a> </span> <span class="l2"> <span class="price">&#x0024;75</span>  <span class="pnr"> <small> (Gramercy)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404147090">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404109458"> <a href="/mnh/tix/4404109458.html" class="i" data-id="0:00e0e_br5mPZUCCS7"><span class="price">&#x0024;175</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404109458.html">ARMIN ONLY INTENSE - FLOOR EAST - HARD TICKET</a> </span> <span class="l2"> <span class="price">&#x0024;175</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4404109458">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404144289"> <a href="/mnh/tix/4404144289.html" class="i"><span class="price">&#x0024;65</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404144289.html">New York Yankees vs. Baltimore Orioles tickets 4/8/14</a> </span> <span class="l2"> <span class="price">&#x0024;65</span>  <span class="pnr">  <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404144289">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404143364"> <a href="/mnh/tix/4404143364.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404143364.html">sun &amp; tues - DANNY BROWN - for sale - up to 4</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404143212"> <a href="/que/tix/4404143212.html" class="i"><span class="price">&#x0024;150</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/que/tix/4404143212.html">4 mets vs washington tickets thursday 1pm</a> </span> <span class="l2"> <span class="price">&#x0024;150</span>  <span class="pnr">  <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404143212">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4385824113"> <a href="/mnh/tix/4385824113.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4385824113.html">Rock &amp; Roll Hall of Fame 4/10 way below cost</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (sec 126 below cost)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404133009"> <a href="/brk/tix/4404133009.html" class="i" data-id="0:00I0I_lrWIIoVoSJu"><span class="price">&#x0024;28</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/brk/tix/4404133009.html">Cano first series back at Yankee Stadium</a> </span> <span class="l2"> <span class="price">&#x0024;28</span>  <span class="pnr"> <small> (Grandstand)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4390147449"> <a href="/mnh/tix/4390147449.html" class="i" data-id="0:00606_H04BgUNQJK"><span class="price">&#x0024;60</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4390147449.html">1 Stratton Mountain Vermont Lift Ticket</a> </span> <span class="l2"> <span class="price">&#x0024;60</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404041276"> <a href="/mnh/tix/4404041276.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404041276.html">1 Lady Gaga Tix- 4/2 @ ROSELAND</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404140149"> <a href="/mnh/tix/4404140149.html" class="i"><span class="price">&#x0024;75</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404140149.html">Brit Floyd - Orchestra Tickets</a> </span> <span class="l2"> <span class="price">&#x0024;75</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404140149">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404130864"> <a href="/mnh/tix/4404130864.html" class="i"><span class="price">&#x0024;150</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404130864.html">SALE! SALE! SALE! LA BOHEME by Puccini on April 2nd, 2014 at The Met!</a> </span> <span class="l2"> <span class="price">&#x0024;150</span>  <span class="pnr"> <small> (ORCHESTRA SEATS!)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404130864">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4400296295"> <a href="/mnh/tix/4400296295.html" class="i"><span class="price">&#x0024;2</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4400296295.html">Smokey Robinson at Beacon Theatre</a> </span> <span class="l2"> <span class="price">&#x0024;2</span>  <span class="pnr"> <small> (2 -10th row orch at cost)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404137612"> <a href="/que/tix/4404137612.html" class="i"><span class="price">&#x0024;150</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/que/tix/4404137612.html">4 mets vs washington tickets</a> </span> <span class="l2"> <span class="price">&#x0024;150</span>  <span class="pnr">  <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404137612">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404137375"> <a href="/mnh/tix/4404137375.html" class="i"><span class="price">&#x0024;80</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404137375.html">Chicago</a> </span> <span class="l2"> <span class="price">&#x0024;80</span>  <span class="pnr"> <small> (manhattan)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404137375">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404136141"> <a href="/wch/tix/4404136141.html" class="i"><span class="price">&#x0024;40</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/wch/tix/4404136141.html">mike gordon tarrytown</a> </span> <span class="l2"> <span class="price">&#x0024;40</span>  <span class="pnr"> <small> (tarrytown)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404136141">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404128803"> <a href="/mnh/tix/4404128803.html" class="i" data-id="0:00y0y_fTTyWEByHWC"><span class="price">&#x0024;80</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404128803.html">4 Yankee Tix (vs. Cubs) - Section 105 Row 24</a> </span> <span class="l2"> <span class="price">&#x0024;80</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404127088"> <a href="/mnh/tix/4404127088.html" class="i" data-id="0:00A0A_5IhghsOlJFD"><span class="price">&#x0024;79</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404127088.html">Armin Van Buuren 2 Tickets MSG 4/11 Friday</a> </span> <span class="l2"> <span class="price">&#x0024;79</span>  <span class="pnr"> <small> (Upper West Side)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4404127088">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404126733"> <a href="/que/tix/4404126733.html" class="i"><span class="price">&#x0024;250</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/que/tix/4404126733.html">ARMIN VAN BUUREN MSG 4/11 - WEST FLOOR</a> </span> <span class="l2"> <span class="price">&#x0024;250</span>  <span class="pnr"> <small> (QUEENS)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404126733">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404126063"> <a href="/mnh/tix/4404126063.html" class="i"><span class="price">&#x0024;20</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404126063.html">Kevin Drew - Broken Social Scene, Thurs April 3, Bowery Ballroom </a> </span> <span class="l2"> <span class="price">&#x0024;20</span>  <span class="pnr">  <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404126063">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404122661"> <a href="/mnh/tix/4404122661.html" class="i"><span class="price">&#x0024;60</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404122661.html">Brit Floyd Tonite - Orchestra Row</a> </span> <span class="l2"> <span class="price">&#x0024;60</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4404122661">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4385205070"> <a href="/mnh/tix/4385205070.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4385205070.html">Season Home Finale, April 10th NY Rangers v Buffalo Sabres - Cheap</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Front Row, 300s)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4385205070">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4394922860"> <a href="/mnh/tix/4394922860.html" class="i"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4394922860.html">New York Rangers ALL Home Games Available for Playoffs</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (100s behind net Rangers shoot 2X)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4394922860">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404110263"> <a href="/que/tix/4404110263.html" class="i"><span class="price">&#x0024;550</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/que/tix/4404110263.html">ROMEO SANTOS</a> </span> <span class="l2"> <span class="price">&#x0024;550</span>  <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4403961716"> <a href="/mnh/tix/4403961716.html" class="i" data-id="0:00W0W_k6prhKe8yPg"><span class="price">&#x0024;200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4403961716.html">1-2 tkts. Lady Gaga 4/2 TONIGHT Roseland VIP Little Monster Zone Floor</a> </span> <span class="l2"> <span class="price">&#x0024;200</span>  <span class="pnr"> <small> (LMZ)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4403991564"> <a href="/mnh/tix/4403991564.html" class="i"><span class="price">&#x0024;120</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4403991564.html">Knicks tickets - Scam - Donald Kent</a> </span> <span class="l2"> <span class="price">&#x0024;120</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4403991564">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404097335"> <a href="/mnh/tix/4404097335.html" class="i" data-id="0:00Y0Y_f47JQoZ33Qo"><span class="price">&#x0024;80</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404097335.html">4 Yankee Tix (vs. Cubs) - Section 212 Row 11</a> </span> <span class="l2"> <span class="price">&#x0024;80</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4404097335">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404112622"> <a href="/brk/tix/4404112622.html" class="i" data-id="0:00a0a_gFJb5Eh26Pa"><span class="price">&#x0024;400</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/brk/tix/4404112622.html">Rangers Vs Senators 4/5 BEST SEATS IN THE HOUSE!!!</a> </span> <span class="l2"> <span class="price">&#x0024;400</span>  <span class="pnr"> <small> (Brooklyn)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4404112622">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404111117"> <a href="/mnh/tix/4404111117.html" class="i" data-id="0:00S0S_gi2Mj4kW5NJ"><span class="price">&#x0024;120</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tix/4404111117.html">4 Tickets to Yankees vs mariners April 29 - Section 107 Row 21 </a> </span> <span class="l2"> <span class="price">&#x0024;120</span>  <span class="pnr"> <small> (Midtown)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4404111117">map</a></span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4360705909"> <a href="/brk/tix/4360705909.html" class="i" data-id="0:00a0a_dKiYe51JBXI"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/brk/tix/4360705909.html">Katy Perry Barclays</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Secs 210 and 225)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tix/" data-cat="tix">tickets - by owner</a> </span> </p>
+ <p class="row" data-pid="4404108680"> <a href="/mnh/tid/4404108680.html" class="i"><span class="price">&#x0024;50</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  2</span>  <a href="/mnh/tid/4404108680.html">YANKEES vs. ORIOLES - Mon Apr 7 - HOME OPENER</a> </span> <span class="l2"> <span class="price">&#x0024;50</span>  <span class="pnr"> <small> (Yankee Stadium)</small> <span class="px"> <span class="p"> img</span></span> </span>  <a class="gc" href="/tid/" data-cat="tid">tickets - by dealer</a> </span> </p>
+
+                    <div id="mapcontainer" data-arealat="40.714199" data-arealon="-74.006401">
+	<div id="noresult_overlay"></div>
+		<div id="noresult_text">
+			<span class="message">No mappable items found</span>
+		</div>
+	<div id="map" class="loading"></div>
+</div>
+<span class="timing"></span>
+                    
+                </div>
+
+                <div class="toc_legend bottom"><div class="center"><div class='bottompaginator'><span class="paginator buttongroup">
+<span class="resulttotal">found <span>...</span> postings</span><span class="buttons"><span class="button first" title="first page"> &lt;&lt; </span><span class="button prev" title="previous page"> &lt; prev </span><span class="button pagenum">1 - 100 </span><a href='/tia/index100.html' class="button next" title="next page"> next &gt; </a></span>
+</span></div></div></div>
+
+            </div>
+            <div id="floater">
+                <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+            </div>
+
+            <section class="blurbs">
+                <blockquote id="messagetable"><div id="messages"><span class="hl"> [ <a href="http://www.craigslist.org/about/recalled_items">recalls</a> ] </span>
+<span class="hl"> [ <a href="http://youtube.com/craigslist">tv</a> ] </span>
+<span class="hl"> [ <a href="http://blog.craigslist.org/">blog</a> ] </span>
+<span class="hl"> [ <a href="/about/scams">scams</a> ] </span>
+<span class="hl"> [ <a href="/about/safety">safety</a> ] </span>
+<span class="hl"> [ <a href="/about/prohibited">prohibited</a> ] </span>
+</div></blockquote>
+            </section>
+        </section>
+        
+        <footer>
+	
+			<span class="rss">
+				<a class="l" href="/tia/index.rss">RSS</a>
+				<a href="http://www.craigslist.org/about/rss">(?)</a><br>
+			</span>
+			
+	<ul class="clfooter">
+		<li>&copy; 2014 <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+		<li><a href="//www.craigslist.org/about/help/">help</a></li>
+		<li><a href="//www.craigslist.org/about/scams">safety</a></li>
+		<li class="desktop"><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+		<li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+		<li class="desktop"><a href="//www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+		<li><a href="//www.craigslist.org/about/terms.of.use">terms</a></li>
+		<li><a href="//www.craigslist.org/about/">about</a></li>
+		<li class="fsel desktop" data-mode="mobile"><a href="#">mobile</a></li>
+		<li class="fsel mobile" data-mode="regular"><a href="#">desktop</a></li>
+	</ul>
+</footer>
+    </article>
+    <script  src="//www.craigslist.org/js/general-concat.min.js?v=d39fb6755b9061ba2033897f66337306" type="text/javascript" ></script>
+    <script type="text/javascript"><!--
+        var iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=df3e26b8dc7dec459e3415594e32b1a3';
+        document.body.insertBefore(iframe, null);
+    --></script>
+    <script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-id="{PostingID}">
+        <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+        <span class="bedrooms">{BedroomsContent}</span>
+        <span class="postingtitle"><a>{PostingTitle}</a></span>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            <button class="back">&lt;</button> back to posting list
+        </div>
+        <div class="title">
+            <span class="star" data-pid="{PostingID}"></span>
+            <span class="postingtitle"><a href="{PostingURL}" target="_blank">{PostingTitle}</a></span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer">
+            <div class="slidernav">
+                <button class="back" disabled="disabled">&lt;</button><span class="sliderinfo"></span><button class="forward">&gt;</button>
+            </div>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <abbr class="date timeago" title="{isoPostedDate}">{humanPostedDate}</abbr>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script  src="//www.craigslist.org/js/leaflet-concat.min.js?v=37c48f98e87075fa17cffef26e0840d6" type="text/javascript" ></script>
+    <script  src="//www.craigslist.org/js/tocs-concat.min.js?v=0a094000fd454b9a608a6f7aa3bd4503" type="text/javascript" ></script>
+</body>
+</html>
+
