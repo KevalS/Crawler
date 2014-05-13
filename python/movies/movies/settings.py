@@ -1,4 +1,4 @@
-# Scrapy settings for craigslist project
+# Scrapy settings for movies project
 #
 # For simplicity, this file contains only the most important settings by
 # default. All the other settings are documented here:
@@ -6,13 +6,10 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #
 
-BOT_NAME = 'craigslist'
+BOT_NAME = 'movies'
 
-SPIDER_MODULES = ['craigslist.spiders']
-NEWSPIDER_MODULE = 'craigslist.spiders'
-
-
-ITEM_PIPELINES = {'craigslist.pipelines.CraigslistPipeline' : 1 }
+SPIDER_MODULES = ['movies.spiders']
+NEWSPIDER_MODULE = 'movies.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'craigslist (+http://www.yourdomain.com)'
+#USER_AGENT = 'movies (+http://www.yourdomain.com)'
