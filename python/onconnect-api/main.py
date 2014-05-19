@@ -10,5 +10,5 @@ url = 'http://data.tmsapi.com/v1/movies/showings?startDate=' + startdate + '&zip
 response = requests.get(url)
 
 
-with open('data/theatres_list.json', 'wb') as f:
+with open('data/movies_playing' + str(date.today()) + '.json', 'wb') as f:
     f.write(response.text.encode('utf-8'))
