@@ -1,3 +1,5 @@
 *.javac
 *.pyc
 python/onconnect-api/constants/
+python/fandango/constants/
+python/groupon/constants/

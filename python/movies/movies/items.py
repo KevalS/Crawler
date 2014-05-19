@@ -6,6 +6,6 @@
 from scrapy.item import Item, Field
 
 
-class AMCItem(Item):
+class GoogleMovieResultItem(Item):
     # define the fields for your item here like:
     data = Field()
